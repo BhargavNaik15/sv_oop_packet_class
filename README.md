@@ -11,5 +11,7 @@
 - `packet_class.sv` – Main source file
 
 ## ✅ Output Sample
-src=0 dest=0 data=0
+src=0 dest=0 data=0; 
 src=5 dest=2 data=99
+
+✅ Run this code on [EDA Playground](https://www.edaplayground.com)
